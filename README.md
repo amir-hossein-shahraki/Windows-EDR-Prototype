@@ -1,5 +1,6 @@
 # Lightweight Windows EDR Prototype
 
+# Note: This Project is temporarily paused as I am focusing on my university entrance exam to obtain my Bachelor's degree. Code implementation will resume soon.
 ## 📌 Overview
 A lightweight Endpoint Detection and Response (EDR) prototype developed for Windows. This project aims to explore kernel-mode telemetry collection and rule-based threat detection, specifically targeting common malicious behaviors such as process injection and unauthorized execution.
 
